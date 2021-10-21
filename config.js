@@ -1,4 +1,5 @@
 const nameGirl = 'Trúc';
+const giftUrl = 'http://nodemy.vn';
 const eventName = 'Chúc Mừng 20-10';
 const titleCard = 'Tặng người ấy';
 const contentCard = 'Chúc Trúc ,  20/10 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với bạn bây giờ và mãi mãi ';
